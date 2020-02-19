@@ -1,0 +1,51 @@
+body {
+    background-color: lightyellow;
+}
+table.tabla1{
+    margin-top:10px;
+}
+
+img.dinero1{
+    margin-left: 150px;
+}
+
+img.dinero2{
+    margin-left: 150px;
+}
+
+table.tabla2{
+    background-color: lightslategray;
+    color:gold;
+    border-spacing: 2px;
+    width: 1000px; 
+}
+
+img.black{
+    float: right;
+    margin-top: -175px;
+    margin-right: 40px;
+    width: 550px;
+}
+
+p.parrafo{
+    color:blue;
+}
+
+main{
+    background-color: white;
+}
+
+section.form{
+    background-color: lightblue;
+}
+
+iframe.mapa{
+    float: right;
+    margin-top: -250px;
+    margin-right: 550px;
+}
+
+table.tabla4{
+    float: right;
+}
+
